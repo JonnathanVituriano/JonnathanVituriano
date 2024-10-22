@@ -1,3 +1,3 @@
-Hello, I'm Jonnathan!! 🖥️
+# I'm Jonnathan 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanVituriano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanVituriano&show_icons=true)](https://github.com/JonnathanVituriano/github-readme-stats&show_icons=true)
