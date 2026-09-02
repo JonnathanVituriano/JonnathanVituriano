@@ -18,7 +18,6 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<!-- Substitua ou adicione as tecnologias que você domina -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" alt="Minhas Skills" />
@@ -30,13 +29,13 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <!-- Stats Card (Tema Dark para combinar com seu perfil) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonnathanVituriano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanVituriano&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- Fornecedor Alternativo: GitHub Profile Summary Cards -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonnathanVituriano&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonnathanVituriano&theme=tokyonight" />
 </p>
 
-<!-- Streak Stats (Mostra sua consistência de commits) -->
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnathanVituriano&theme=tokyonight" alt="GitHub Streak" />
 </p>
