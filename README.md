@@ -11,8 +11,8 @@
 - 🔭 Atualmente estou trabalhando em **[adicione seu projeto atual aqui]**
 - 🌱 No momento estou aprendendo **[ex: React, Node.js, Python, etc.]**
 - 👯 Procuro colaborar em **projetos Open Source**
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/jonnathan-vituriano-da-costa-94b93727)
-- ⚡ Curiosidade: **[adicione um hobby ou curiosidade sobre você]**
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jonnathanvituriano/)
+- ⚡ Curiosidade: **Gosto de Jogar e tocar intrumentos musicais**
 
 ---
 
